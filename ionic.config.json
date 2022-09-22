@@ -1,0 +1,8 @@
+{
+  "name": "Alfacinha.com",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3f1c1efe"
+}
